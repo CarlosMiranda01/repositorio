@@ -14,3 +14,10 @@ ahora hare un **texto _largo_ aplicando ~~todo~~**
 [tralalero tralala](https://www.pngmart.com/files/24/Tralalero-Tralala-PNG-Transparent-Image.png)
 
 buenas tardes
+
+
+
+![si](si-1.jpg)
+
+
+![alt text](Tralalero_Tralalala.webp)
