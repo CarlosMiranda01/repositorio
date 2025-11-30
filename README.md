@@ -1,4 +1,4 @@
-![image alt](image_https://github.com/CarlosMiranda01/repositorio/blob/main/si.jpg?raw=true)
+![image alt](https://github.com/CarlosMiranda01/repositorio/blob/6ccd722305dd98afe4012583afa276eb39ca02a1/si.jpg))
 
 
 
