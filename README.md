@@ -1,3 +1,6 @@
+![image alt](https://github.com/CarlosMiranda01/repositorio/blob/a350d175cac8c431fdb2867a8865b690a8c8e45a/si.jpg)
+
+
 # Simulando con VS
 - jiji
 
